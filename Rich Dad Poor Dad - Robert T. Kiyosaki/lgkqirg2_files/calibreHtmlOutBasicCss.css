@@ -55,6 +55,6 @@ body{
   padding:10px;
 }
 .calibreEbookContent{
-  width:600px;
+  /* width:600px; */
   float:left;
 }
