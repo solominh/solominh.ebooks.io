@@ -1,0 +1,655 @@
+.bigideas {
+    clear: both;
+    display: block;
+    page-break-after: avoid
+    }
+.block {
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 30px
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    oeb-column-number: 1;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre1 {
+    height: 100%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    max-width: 100%;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    width: auto
+    }
+.calibre2 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre3 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    line-height: 1.2
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0
+    }
+.calibre8 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 0;
+    margin-top: 10px
+    }
+.calibre9 {
+    display: list-item;
+    line-height: 1.5em;
+    text-align: justify
+    }
+.calibre10 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px
+    }
+.calibre11 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 0;
+    margin-top: 5px
+    }
+.calibre12 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px
+    }
+.calibre13 {
+    display: block
+    }
+.center {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.center1 {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 30px;
+    text-align: center;
+    text-indent: 0
+    }
+.center2 {
+    display: block;
+    float: left;
+    line-height: 1.5em;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    text-align: center;
+    text-indent: 0
+    }
+.chapnum {
+    color: #b40101;
+    font-family: "Futura", sans-serif;
+    font-size: 1em;
+    font-weight: lighter;
+    line-height: 1.2;
+    padding-right: 10px
+    }
+.chaptitle {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    hyphens: none;
+    line-height: 1.2;
+    margin-bottom: 40px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 150px;
+    page-break-after: avoid;
+    text-align: left;
+    text-indent: 0
+    }
+.copy {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.copy1 {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: left;
+    text-indent: 0
+    }
+.dominos {
+    display: block;
+    float: right;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 20px;
+    margin-top: 0;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 2em;
+    width: 10%
+    }
+.fig {
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    padding-top: 5px;
+    page-break-before: avoid;
+    text-align: left;
+    text-indent: 0
+    }
+.figimage {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: 0
+    }
+.fignum {
+    color: #505050;
+    font-family: "Futura", sans-serif;
+    font-size: 1.88889em;
+    line-height: 1.2;
+    padding-right: 10px
+    }
+.first {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: justify;
+    text-indent: 0
+    }
+.float {
+    clear: left;
+    display: block;
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 30px;
+    margin-top: 20px;
+    padding-top: 20px;
+    text-align: center;
+    width: 45%
+    }
+.float_first {
+    clear: left;
+    display: block;
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 30px;
+    margin-top: 20px;
+    text-align: center;
+    width: 45%
+    }
+.grayunderline {
+    border-bottom-color: #505050;
+    border-bottom-style: solid;
+    border-bottom-width: 1px
+    }
+.idx {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 40px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: -40px
+    }
+.idx1 {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 70px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: -40px
+    }
+.image {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 80px;
+    text-align: center;
+    text-indent: 0
+    }
+.image1 {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: center;
+    text-indent: 0
+    }
+.ind {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 2em
+    }
+.indht {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: justify;
+    text-indent: 2em
+    }
+.noind {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 60px;
+    text-align: justify;
+    text-indent: 0
+    }
+.noind1 {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.noind2 {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    text-align: justify;
+    text-indent: 0
+    }
+.part {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    color: #aeaeae;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 1.41667em;
+    font-weight: bold;
+    hyphens: none;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 30px;
+    page-break-after: avoid;
+    text-align: right;
+    text-indent: 0
+    }
+.partnum {
+    color: #b40101;
+    font-family: "Futura", sans-serif;
+    font-size: 1.41176em;
+    line-height: 1.2;
+    margin-right: 0;
+    padding-right: 0
+    }
+.partsubtitle {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    color: #505050;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 1.41667em;
+    font-weight: bold;
+    hyphens: none;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-after: avoid;
+    text-align: right;
+    text-indent: 0
+    }
+.parttitle {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    hyphens: none;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 40px;
+    page-break-after: avoid;
+    text-align: right;
+    text-indent: 0
+    }
+.pink {
+    color: #b40101
+    }
+.pink1 {
+    color: #b40101;
+    font-weight: bold
+    }
+.poem {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: left;
+    text-indent: -30px
+    }
+.poem1 {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-top: 10px;
+    text-align: left;
+    text-indent: -30px
+    }
+.quote {
+    display: block;
+    margin-top: 150px;
+    width: 45%
+    }
+.right {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: right;
+    text-indent: 0
+    }
+.right1 {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: right;
+    text-indent: 0
+    }
+.sans {
+    font-family: "Futura", sans-serif;
+    font-size: 1.125em
+    }
+.sans1 {
+    font-family: "Futura", sans-serif;
+    font-weight: bold
+    }
+.sans2 {
+    font-family: "Futura", sans-serif;
+    font-style: italic
+    }
+.sansgray {
+    color: #505050;
+    font-family: "Futura", sans-serif;
+    font-size: 0.75em
+    }
+.sansgray1 {
+    color: #505050;
+    font-family: "Futura", sans-serif;
+    font-weight: bold
+    }
+.sansgray2 {
+    color: #505050;
+    font-family: "Futura", sans-serif;
+    font-style: italic
+    }
+.sanspink {
+    color: #b40101;
+    font-family: "Futura", sans-serif;
+    font-weight: bold
+    }
+.sanspink1 {
+    color: #b40101;
+    font-family: "Futura", sans-serif;
+    font-size: 1.125em
+    }
+.subhead {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 1.125em;
+    font-weight: bold;
+    hyphens: none;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    page-break-after: avoid;
+    text-align: left;
+    text-indent: 0
+    }
+.subhead_gray {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    color: #505050;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 1.125em;
+    font-weight: bold;
+    hyphens: none;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    page-break-after: avoid;
+    text-align: left;
+    text-indent: 0
+    }
+.subhead1 {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 1.125em;
+    font-weight: bold;
+    hyphens: none;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 40px;
+    page-break-after: avoid;
+    text-align: left;
+    text-indent: 0
+    }
+.subheadpink {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    color: #b40101;
+    display: block;
+    font-family: "Futura", sans-serif;
+    font-size: 1.125em;
+    font-weight: bold;
+    hyphens: none;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    page-break-after: avoid;
+    text-align: left;
+    text-indent: 0
+    }
+.toc {
+    display: block;
+    font-family: "Futura", sans-serif;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: -30px
+    }
+.toc1 {
+    display: block;
+    font-family: "Futura", sans-serif;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: left;
+    text-indent: -30px
+    }
+.toc2 {
+    display: block;
+    font-family: "Futura", sans-serif;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: -30px
+    }
+.tocpartnum {
+    color: #b40101;
+    font-family: "Futura", sans-serif;
+    font-size: 2em;
+    font-weight: lighter;
+    line-height: 1.2
+    }
+.width {
+    height: auto;
+    max-width: 100%;
+    width: 75%
+    }
+.pcalibre:link {
+    -webkit-text-fill-color: #69C;
+    color: #69C
+    }
+.pcalibre1:visited {
+    -webkit-text-fill-color: #69C;
+    color: #69C
+    }
+.pcalibre2:hover {
+    -webkit-text-fill-color: #69C;
+    color: #69C
+    }
+.pcalibre3:active {
+    -webkit-text-fill-color: #69C;
+    color: #69C
+    }

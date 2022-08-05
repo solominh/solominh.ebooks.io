@@ -1,0 +1,186 @@
+.calibre {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: 0;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: 0;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: 0;
+    color: #000;
+    display: block;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+    letter-spacing: 0;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left
+    }
+.calibre1 {
+    color: black;
+    text-decoration: none
+    }
+.calibre2 {
+    display: inline;
+    height: auto;
+    text-align: center;
+    width: auto
+    }
+.calibre3 {
+    color: #888;
+    font-family: Palatino Linotype, Tahoma, Geneva, sans-serif;
+    font-size: 0.77778em;
+    font-style: italic;
+    text-align: center;
+    text-decoration: none
+    }
+.calibre4 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.dropcap_g {
+    background-image: url(OEBPS/images/G.gif);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 196px;
+    margin-top: -50px;
+    width: 136px
+    }
+.dropcap_h {
+    background-image: url(OEBPS/images/H.gif);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 196px;
+    margin-top: -50px;
+    width: 136px
+    }
+.dropcap_l {
+    background-image: url(OEBPS/images/L.gif);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 196px;
+    margin-top: -50px;
+    width: 136px
+    }
+.dropcap_o {
+    background-image: url(OEBPS/images/O.gif);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 196px;
+    margin-top: -50px;
+    width: 136px
+    }
+.dropcap_r {
+    background-image: url(OEBPS/images/R.gif);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 196px;
+    margin-top: -50px;
+    width: 136px
+    }
+.dropcap_s {
+    background-image: url(OEBPS/images/S.gif);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 196px;
+    margin-top: -50px;
+    width: 136px
+    }
+.dropcap_t {
+    background-image: url(OEBPS/images/T.gif);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 196px;
+    margin-top: -50px;
+    width: 136px
+    }
+.epub_motsach_info {
+    color: #888;
+    display: block;
+    font-family: Palatino Linotype, Tahoma, Geneva, sans-serif;
+    font-size: 0.75em;
+    font-style: italic;
+    margin-top: 100px;
+    text-align: center
+    }
+.epub_motsach_info1 {
+    color: #888;
+    display: block;
+    font-family: Palatino Linotype, Tahoma, Geneva, sans-serif;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: center
+    }
+.epub_ms_author {
+    display: block;
+    font-style: italic;
+    text-align: center
+    }
+.epub_ms_qr {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+    width: 100%
+    }
+.epub_ms_title {
+    color: #000;
+    display: block;
+    font-family: Palatino Linotype, Tahoma, Geneva, sans-serif;
+    font-size: 1.41667em;
+    font-weight: bolder;
+    line-height: 1.2;
+    margin-bottom: 30px;
+    padding-bottom: 7px;
+    padding-top: 50px;
+    text-align: center
+    }
+.hidden {
+    color: white
+    }
+.ms_chapter {
+    color: #C52929;
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    margin-bottom: 30px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase
+    }
+.ms_text {
+    color: #02081B;
+    display: block;
+    font-family: Trebuchet, Verdana, Arial;
+    line-height: 140%;
+    padding-top: 10px;
+    text-align: justify
+    }
