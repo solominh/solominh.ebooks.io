@@ -1,0 +1,103 @@
+.author {
+    color: #8c8e6f;
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-shadow: 0 0 1px #8c8e6f
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 2pt;
+    margin-right: 2pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    color: #663;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.33em;
+    text-align: center;
+    text-shadow: 0 0 1px #000
+    }
+.calibre2 {
+    color: #663
+    }
+.calibre3 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 20pt
+    }
+.calibre4 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 2pt;
+    margin-right: 2pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-before: always
+    }
+.calibre6 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre7 {
+    display: list-item;
+    list-style-type: none
+    }
+.calibre8 {
+    text-decoration: none
+    }
+.header {
+    color: #73562D;
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-shadow: 0 0 1px #000;
+    text-transform: uppercase
+    }
+.lv {
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-left: 2em;
+    text-indent: 10pt
+    }
+.pcalibre:hover {
+    color: red
+    }
